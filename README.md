@@ -52,6 +52,8 @@ The following will be a list of the changes I did to the CSS file:
     * Added comments to the CSS file to detail what each class does.
     
     * Put the file into semantic order.
+
+    * Changed header from a class to a element selector.
     
     * Added new class called "content-style"
 
