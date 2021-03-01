@@ -1,27 +1,25 @@
-/* universal element */
+/* General Styles */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* Sets webpage background */
 body {
     background-color: #d9dcd6;
 }
 
-/* Sets link to the color white */
+/* Text Styles */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* Paragraphs font size */
 p {
     font-size: 16px;
 }
 
-/* Sets header sections padding, font family, background and font color */
+/* Header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,7 +27,6 @@ header {
     color: #ffffff;
 }
 
-/* Sets links position on webpage and fonts family and size. */
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -64,14 +61,13 @@ header h1 .seo {
     background-position: center;
 }
 
-/* Sets main sections width, display and left margin. */
+/* Main */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Sets following class bottom margin, padding, height, font family and color and background color */
 .content-style {
     margin-bottom: 20px;
     padding: 50px;
@@ -81,13 +77,11 @@ header h1 .seo {
     color: #ffffff;
 }
 
-/* Sets class h2 elements font size and bottom margin  */
 .content-style h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* Sets images to max height of 200px */
 .content-style img {
     max-height: 200px;
 }
@@ -102,7 +96,7 @@ header h1 .seo {
     margin-left: 25px;
 }
 
-/* Sets aside sections appearance on the webpage.  */
+/* Aside  */
 .benefits {
     margin-right: 20px;
     padding: 50px;
@@ -114,26 +108,23 @@ header h1 .seo {
     background-color: #2589bd;
 }
 
-/* Sets classes bottom margin and font color */
 .benefit-style {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* Sets classes bottom margin and font color */
 .benefit-style h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Sets classes display type, margin and max width */
 .benefit-style img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* Sets class padding, font family and alignment */
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -141,7 +132,6 @@ header h1 .seo {
     text-align: center;
 }
 
-/* Sets h2 font size to 20px */
 .footer h2 {
     font-size: 20px;
 }
