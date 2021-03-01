@@ -19,7 +19,7 @@ For this homework assignment, I am tasked with refactoring a html file and a CSS
     
 <h2>The following is a mock up page of how the website site should look like.</h2>     
     
-<img src="https://github.com/vickphat/homework1/blob/main/mockup.png">
+<img src="https://github.com/vickphat/code-refactor-homework/blob/main/mockup.png">
 
 <br>    
 <br>
@@ -67,4 +67,4 @@ The following will be a list of the changes I did to the CSS file:
     
 <br>
 
-This is the URL of the deployed application  - https://vickphat.github.io/homework1/
+This is the URL of the deployed application  - https://vickphat.github.io/code-refactor-homework/
