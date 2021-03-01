@@ -50,3 +50,7 @@ The following will be a list of the changes I did to the CSS file:
     * Put the file into semantic order.
     
     * Consolidated the file to get rid of unnecessary code and lower the amount of space being used.
+    
+<br>
+
+This is the URL of the deployed application  - https://vickphat.github.io/homework1/
