@@ -41,6 +41,10 @@ The following will be a list of the changes I did to the html file:
     * Under main, I added id="search-engine-optimization" to fix broken link.
     
     * I added img alt attributes for all img tags.
+
+    * Deleted classes of "search-engine-optimization", "online-reputation-management", and "social-media-marketing" and replaced it with "content-style".
+
+    * Deleted classes of "benefit-brand", "benefit-cost", and "benefit-lead" and replaced it with "benefit-style". 
     
 <br>
 The following will be a list of the changes I did to the CSS file:
@@ -49,7 +53,15 @@ The following will be a list of the changes I did to the CSS file:
     
     * Put the file into semantic order.
     
-    * Consolidated the file to get rid of unnecessary code and lower the amount of space being used.
+    * Added new class called "content-style"
+
+    * Removed classes "search-engine-optimization", "online-reputation-management", and "social-media-marketing" and replaced it with "content-style".
+    
+    * Added new class called "benefit-style"
+    
+    * Removed classes "benefit-brand", "benefit-cost", and "benefit-lead" and replaced it with "benefit-style". 
+    
+    * Consolidated codes to remove unnecessary code and lower the amount of space being used.  
     
 <br>
 
